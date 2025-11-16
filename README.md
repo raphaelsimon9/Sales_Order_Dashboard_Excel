@@ -6,14 +6,16 @@ This sales dashboard provides a comprehensive, multi-dimensional view of busines
 
 <img width="1280" height="983" alt="sales_order_dashboard" src="https://github.com/raphaelsimon9/Sales_Order_Dashboard_Excel/blob/cf97b97ed303e07dea41b9274e2f474342ca3382/Sales%20Order%20Dashboard.png" />
 
+
 # Achievement Overview
 
 92% of the total sales revenue plan was achieved across the 4 years in view.
 
 Summary:
-A total revenue of 2,756,640 was generated across the 4 years which accounted for 92% of the entire sales plan.
-A total quantity of 37,873 of products were over the 4 years and across 531 cities.
 
+A total revenue of 2,756,640 was generated across the 4 years which accounted for 92% of the entire sales plan.
+
+A total quantity of 37,873 of products were over the 4 years and across 531 cities.
 
 <img width="637" height="375" alt="image" src="https://github.com/user-attachments/assets/0369662c-f426-4e3a-8cf3-0f3bf45984d9" />
 
@@ -30,6 +32,7 @@ Here we have the monthly total revenue from January to December, between the yea
 These are the top-performing product sub-categories. Phones and Chairs contribute a total of 32% to the revenue with each of them having 16% respectively. Sales for products in sub-categories like Appliances (5%), Bookcases (6%), Copiers and other Accessories (8% each) need to be improved. Products in these sub-categories need to be repositioned to eye-levels on the shelves to ensure that customers get to see them at a glance. Some more marketing activities need to be done to create awareness for these products. Direct sales-pitching can be done by merchandisers to incoming customers to help them know that such products are available, and the benefits of purchasing them.
 
 <img width="636" height="372" alt="image" src="https://github.com/user-attachments/assets/aa3bbcd1-46c6-4d9f-813e-c8199c50baa1" />
+
 
 # Regional Sales Revenue
 
