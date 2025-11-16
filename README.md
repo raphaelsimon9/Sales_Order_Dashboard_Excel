@@ -4,7 +4,19 @@
 
 This sales dashboard provides a comprehensive, multi-dimensional view of business performance across time, regions, product categories, and customer segments. It highlights key metrics such as total revenue, quantities sold, plan achievement, and city-level distribution while visualizing trends through monthly, quarterly, and yearly comparisons. With interactive filters and clear KPI indicators, the dashboard enables quick insights into top-performing markets, product lines, and segments, supporting fast and informed decision-making.
 
-<img width="1280" height="983" alt="sales_order_dashboard" src="https://github.com/raphaelsimon9/Sales_Order_Dashboard_Excel/blob/7e850f0f1d5f5b21be8becc056a967d684b8f28c/Sales%20Order%20Dashboard.png" />
+<img width="1280" height="983" alt="sales_order_dashboard" src="https://github.com/raphaelsimon9/Sales_Order_Dashboard_Excel/blob/cf97b97ed303e07dea41b9274e2f474342ca3382/Sales%20Order%20Dashboard.png" />
+
+# Achievement Overview
+
+92% of the total sales revenue plan was achieved across the 4 years in view.
+
+Summary:
+A total revenue of 2,756,640 was generated across the 4 years which accounted for 92% of the entire sales plan.
+A total quantity of 37,873 of products were over the 4 years and across 531 cities.
+
+
+<img width="637" height="375" alt="image" src="https://github.com/user-attachments/assets/0369662c-f426-4e3a-8cf3-0f3bf45984d9" />
+
 
 # Monthly Revenue
 
@@ -24,6 +36,8 @@ These are the top-performing product sub-categories. Phones and Chairs contribut
 The majority of the sales revenue comes from the Western regions with a total of 12,266 in quantity sold compared to the lowest sales revenue coming from the Southern regions with a total quantity of 6,209 sold.
 
 <img width="635" height="390" alt="image" src="https://github.com/user-attachments/assets/24f86304-1ba8-4a29-9670-4b35cdabf23f" />
+
+
 
 
 
